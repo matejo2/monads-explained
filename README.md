@@ -22,4 +22,4 @@ Was ich mir so angeschaut habe:
 - https://hackernoon.com/functional-computational-thinking-what-is-a-monad-2adea91154e
 
 
-
+Ein weiterer guter Artikel:  https://medium.com/swlh/write-a-monad-in-java-seriously-50a9047c9839
